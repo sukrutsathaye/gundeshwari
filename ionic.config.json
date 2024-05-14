@@ -1,0 +1,7 @@
+{
+  "name": "gundeshwar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
